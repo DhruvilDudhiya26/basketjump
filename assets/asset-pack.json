@@ -1,0 +1,118 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/ball1.png",
+                "type": "image",
+                "key": "ball1"
+            },
+            {
+                "url": "assets/images/bg_image.jpg",
+                "type": "image",
+                "key": "bg_image"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/images/fire.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire"
+            },
+            {
+                "url": "assets/Fire.json",
+                "type": "animation",
+                "key": "Fire"
+            },
+            {
+                "url": "assets/images/g1.png",
+                "type": "image",
+                "key": "g1"
+            },
+            {
+                "url": "assets/images/game paused.png",
+                "type": "image",
+                "key": "game paused"
+            },
+            {
+                "url": "assets/images/gameover.png",
+                "type": "image",
+                "key": "gameover"
+            },
+            {
+                "url": "assets/images/hoop1.png",
+                "type": "image",
+                "key": "hoop1"
+            },
+            {
+                "url": "assets/images/logo1.png",
+                "type": "image",
+                "key": "logo1"
+            },
+            {
+                "url": "assets/images/logo2.png",
+                "type": "image",
+                "key": "logo2"
+            },
+            {
+                "url": "assets/images/mute.png",
+                "type": "image",
+                "key": "mute"
+            },
+            {
+                "url": "assets/images/pause.png",
+                "type": "image",
+                "key": "pause"
+            },
+            {
+                "url": "assets/images/play again.png",
+                "type": "image",
+                "key": "play again"
+            },
+            {
+                "url": "assets/images/play-button.png",
+                "type": "image",
+                "key": "play-button"
+            },
+            {
+                "url": "assets/images/reload.png",
+                "type": "image",
+                "key": "reload"
+            },
+            {
+                "url": "assets/images/rod.png",
+                "type": "image",
+                "key": "rod"
+            },
+            {
+                "url": "assets/images/volume.png",
+                "type": "image",
+                "key": "volume"
+            },
+            {
+                "url": [
+                    "assets/sound/Whistle.mp3"
+                ],
+                "type": "audio",
+                "key": "Whistle"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
